@@ -1,4 +1,4 @@
-# SRE Interview Questions
+# SRE/Devops Interview Questions
 
 - Expected YOE - 1 year
 - mostly based on my past experience
