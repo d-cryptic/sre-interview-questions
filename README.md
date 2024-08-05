@@ -2,6 +2,7 @@
 
 - Expected YOE - 1 year
 - mostly based on my past experience
+- One of the most helpful resources is this subreddit - [Link](https://www.reddit.com/r/sre/)
 
 ---
 
